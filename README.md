@@ -1,1 +1,1 @@
-# get all the youtube URLs for a livestream
+# Get all the youtube URLs for a livestream.
